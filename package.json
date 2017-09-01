@@ -1,0 +1,20 @@
+{
+  "name": "MyReactApp",
+  "version": "1.0.0",
+  "description": "My Developer Dream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testerpiyush/MyReactApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/testerpiyush/MyReactApp/issues"
+  },
+  "homepage": "https://github.com/testerpiyush/MyReactApp#readme"
+}
